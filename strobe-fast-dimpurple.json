@@ -1,0 +1,9 @@
+{
+	"name" : "Strobe purple fast",
+	"script" : "strobe.py",
+	"args" :
+	{
+		"color"     : [ 16, 0, 16 ],
+		"frequency" : 40.0
+	}
+}

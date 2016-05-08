@@ -1,0 +1,10 @@
+{
+	"name" : "Snake Aqua",
+	"script" : "snake.py",
+	"args" :
+	{
+		"rotation-time" : 10.0,
+		"color" : [0, 255, 255],
+		"percentage" : 25
+	}
+}
