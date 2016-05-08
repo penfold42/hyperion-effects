@@ -1,0 +1,10 @@
+{
+	"name" : "Vertical bar",
+	"script" : "vbar.py",
+	"args" :
+	{
+		"speed" : 1.4,
+		"fadeFactor" : 0.0,
+		"color" : [96,0,96]
+	}
+}

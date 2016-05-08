@@ -1,0 +1,9 @@
+{
+	"name" : "Lights Off",
+	"script" : "strobe.py",
+	"args" :
+	{
+		"color"     : [ 0, 0, 0 ],
+		"frequency" : 1.0
+	}
+}
