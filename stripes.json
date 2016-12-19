@@ -1,0 +1,9 @@
+{
+	"name" : "stripes",
+	"script" : "stripes.py",
+	"args" :
+	{
+		"sleepTime" : 0.75,
+		"whichLed" : 0
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name" : "sign",
+	"script" : "sign-writing.py",
+	"args" :
+	{
+		"sleepTime" : 0.75,
+		"whichLed" : 0
+	}
+}

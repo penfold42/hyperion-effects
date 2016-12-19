@@ -1,0 +1,13 @@
+{
+	"name" : "X-Mas3",
+	"script" : "xmas3.py",
+	"args" :
+	{
+		"sleepTime" : 1.25,
+		"Acolor_one" : [ 247, 173, 189 ],
+		"Acolor_two" : [ 247, 169, 152 ],
+		"color_three" : [ 247, 63, 130 ],
+		"color_two" : [ 231, 177, 247 ],
+		"color_one" : [ 247, 141, 176 ]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name" : "DedSec",
+	"script" : ":knight-rider.py",
+	"args" :
+	{
+		"speed" : 1.5,
+		"fadeFactor" : 0.9,
+		"color" : [0,255,0]
+	}
+}
